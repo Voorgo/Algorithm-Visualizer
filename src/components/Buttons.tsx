@@ -11,7 +11,6 @@ interface ButtonsConfig {
 
 const Buttons = ({
   items,
-  setItems,
   handleSort,
   getInitialBars,
   setVisible,
